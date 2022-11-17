@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'IranSans';
+    src: url('IranSans.woff');
+}
+@font-face {
+    font-family: 'IranSansFa';
+    src: url('IranSansFa.woff');
+}
+body {
+    background-color: black;
+}
+.main-box {
+    font-family: 'IranSans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.mainmohtava1 {
+    background: #4d5359;
+    border-radius: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px;
+    width: auto;
+    height: auto;
+}
+.mainmohtava2 {
+    background: #508484;
+    border-radius: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px;
+    width: auto;
+    height: auto;
+}
+.mainmohtava3 {
+    background: #79c99e;
+    border-radius: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px;
+    width: auto;
+    height: auto;
+}
+.dolar {
+    background: #97db4f;
+    border-radius: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 10px;
+    width: auto;
+    height: auto;
+}
+#counter {
+    font-family: 'IranSansFa', 'IranSans',sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+#counter2 {
+    font-family: 'IranSansFa', 'IranSans',sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+#counter3 {
+    font-family: 'IranSansFa', 'IranSans',sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+#dolar1 {
+    font-family: 'IranSansFa', 'IranSans',sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
